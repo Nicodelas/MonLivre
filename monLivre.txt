@@ -1,3 +1,5 @@
 =Mon Livre
 == Chapitre 1
+Proverbe
+********
 "Pour bien connaître les autres, il faut se connaître d'abord soi-même"
